@@ -1,0 +1,21 @@
+# Antigravity Scratch & Temporary Workspace Files
+scratch/
+backup_before_tfda_writeback/
+scratch_screenshot.png
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system & editor temp files
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+*.tmp
+*.log
+
+# Accidental redundant directory
+Users/

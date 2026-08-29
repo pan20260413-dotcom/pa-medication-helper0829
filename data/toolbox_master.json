@@ -1,0 +1,2694 @@
+[
+  {
+    "id": "tb_001",
+    "brand_name": "Accupril",
+    "generic_name": "Quinapril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Quinapril",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 15.0,
+        "who_ddd_raw": "15",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_002",
+    "brand_name": "Acebutolol",
+    "generic_name": "Acebutolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Acebutolol",
+        "dose_mg": 400.0,
+        "dose_raw": "400",
+        "who_ddd_mg": 400.0,
+        "who_ddd_raw": "400",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_003",
+    "brand_name": "Acecol",
+    "generic_name": "Temocapril",
+    "drug_class": "ACEI",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Temocapril",
+        "dose_mg": 1.0,
+        "dose_raw": "1",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.1,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 2.0,
+        "dose_raw": "2",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.2,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 4.0,
+        "dose_raw": "4",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.4,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_004",
+    "brand_name": "Acertil",
+    "generic_name": "Perindopril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Perindopril",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 1.25,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_005",
+    "brand_name": "Acertil plus FC",
+    "generic_name": "Perindopril + Indapamide",
+    "drug_class": "ACEI + Thiazide diuretic",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Perindopril + Indapamide",
+        "dose_mg": 4.0,
+        "dose_raw": "4",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 1.25,
+        "dose_raw": "1.25",
+        "who_ddd_mg": 2.25,
+        "who_ddd_raw": "2.25",
+        "ddd_per_tab": 0.555555556,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 1.555555556,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_006",
+    "brand_name": "Adalat OROS",
+    "generic_name": "Nifedipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Nifedipine",
+        "dose_mg": 30.0,
+        "dose_raw": "30",
+        "who_ddd_mg": 30.0,
+        "who_ddd_raw": "30",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 30.0,
+        "who_ddd_raw": "30",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_007",
+    "brand_name": "Aldactone",
+    "generic_name": "Spironolactone",
+    "drug_class": "保鉀型利尿劑_.醛固酮受器的拮抗劑",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Spironolactone",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 0.333333333,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_008",
+    "brand_name": "Aldopa",
+    "generic_name": "Methyldopa",
+    "drug_class": "抑制中樞神經系統中的交感神經",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Methyldopa",
+        "dose_mg": 250.0,
+        "dose_raw": "250",
+        "who_ddd_mg": 1000.0,
+        "who_ddd_raw": "1000",
+        "ddd_per_tab": 0.25,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_009",
+    "brand_name": "Amizide",
+    "generic_name": "Hydrochlorothiazide/Amiloride",
+    "drug_class": "Diuretics_thiazides",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Hydrochlorothiazide/Amiloride",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_010",
+    "brand_name": "Amlodipine",
+    "generic_name": "Amlodipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_011",
+    "brand_name": "Amtrel",
+    "generic_name": "Amloidipin+Benazepril",
+    "drug_class": "CCB+RAA",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "CCB",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "RAA",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 7.5,
+        "who_ddd_raw": "7.5",
+        "ddd_per_tab": 1.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2.333333333,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_012",
+    "brand_name": "Aprelazine",
+    "generic_name": "Hydralazine",
+    "drug_class": "Vasodilator",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Hydralazine",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 100.0,
+        "who_ddd_raw": "100",
+        "ddd_per_tab": 0.2,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_013",
+    "brand_name": "Apresoline",
+    "generic_name": "Hydralazine",
+    "drug_class": "Vasodilator",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Hydralazine",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 100.0,
+        "who_ddd_raw": "100",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 100.0,
+        "who_ddd_raw": "100",
+        "ddd_per_tab": 0.1,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_014",
+    "brand_name": "Aprovel",
+    "generic_name": "Irbesartan",
+    "drug_class": "ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Irbesartan",
+        "dose_mg": 150.0,
+        "dose_raw": "150",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 300.0,
+        "dose_raw": "300",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_015",
+    "brand_name": "Atanaal",
+    "generic_name": "Nifedipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Nifedipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 30.0,
+        "who_ddd_raw": "30",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_016",
+    "brand_name": "Atenolol",
+    "generic_name": "Atenolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Atenolol",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_017",
+    "brand_name": "Ateol",
+    "generic_name": "Atenolol",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Atenolol",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 1.333333333,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 0.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_018",
+    "brand_name": "Azol",
+    "generic_name": "Acetazolamide",
+    "drug_class": "Diuretics",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_019",
+    "brand_name": "Betaloc",
+    "generic_name": "Metoprolol Succinate",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Metoprolol Succinate",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_020",
+    "brand_name": "Betaloc ZOK",
+    "generic_name": "Metoprolol Succinate",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Metoprolol Succinate",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_021",
+    "brand_name": "Bexolo",
+    "generic_name": "Betaxolol Hydrochloride",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Betaxolol Hydrochloride",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_022",
+    "brand_name": "Bisoprolol",
+    "generic_name": "Bisoprolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Bisoprolol",
+        "dose_mg": 1.25,
+        "dose_raw": "1.25",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_023",
+    "brand_name": "Blopress",
+    "generic_name": "Candesartan Cilexetil",
+    "drug_class": "ARB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Candesartan Cilexetil",
+        "dose_mg": 8.0,
+        "dose_raw": "8",
+        "who_ddd_mg": 8.0,
+        "who_ddd_raw": "8",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_024",
+    "brand_name": "Blopress plus",
+    "generic_name": "Candesartan Cilexetil+ Hydrochlorothiazide",
+    "drug_class": "ARB+thiazide類 Diuretics",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Candesartan Cilexetil+ Hydrochlorothiazide",
+        "dose_mg": 16.0,
+        "dose_raw": "16",
+        "who_ddd_mg": 8.0,
+        "who_ddd_raw": "8",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_025",
+    "brand_name": "Burinex",
+    "generic_name": "Bumetanide",
+    "drug_class": "環利尿劑",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Bumetanide",
+        "dose_mg": 1.0,
+        "dose_raw": "1",
+        "who_ddd_mg": 1.0,
+        "who_ddd_raw": "1",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_026",
+    "brand_name": "Capolon",
+    "generic_name": "Captopril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Captopril",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_027",
+    "brand_name": "Capoten",
+    "generic_name": "Captopril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Captopril",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_028",
+    "brand_name": "Cardolol",
+    "generic_name": "Propranolol Hcl",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Propranolol Hcl",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 160.0,
+        "who_ddd_raw": "160",
+        "ddd_per_tab": 0.0625,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 160.0,
+        "who_ddd_raw": "160",
+        "ddd_per_tab": 0.25,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_029",
+    "brand_name": "Cartil",
+    "generic_name": "Diltiazem",
+    "drug_class": "CCB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Diltiazem",
+        "dose_mg": 90.0,
+        "dose_raw": "90",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.375,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 120.0,
+        "dose_raw": "120",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 30.0,
+        "dose_raw": "30",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_030",
+    "brand_name": "Carvedilol",
+    "generic_name": "Carvedilol",
+    "drug_class": "b_blocker",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Carvedilol",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 37.5,
+        "who_ddd_raw": "37.5",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_031",
+    "brand_name": "Catapres",
+    "generic_name": "Clonidine",
+    "drug_class": "Vasodilators",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Clonidine",
+        "dose_mg": 0.075,
+        "dose_raw": "0.075",
+        "who_ddd_mg": 0.45,
+        "who_ddd_raw": "0.45",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_032",
+    "brand_name": "Cibacen",
+    "generic_name": "Benazepril Hydrochloride",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Benazepril Hydrochloride",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 7.5,
+        "who_ddd_raw": "7.5",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_033",
+    "brand_name": "Co-Aprovel",
+    "generic_name": "Irbesartan + Hydrochlorothiazide",
+    "drug_class": "ARB / thiazide類 Diuretics",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Irbesartan + Hydrochlorothiazide",
+        "dose_mg": 300.0,
+        "dose_raw": "300",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2.5,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_034",
+    "brand_name": "Co-Diovan",
+    "generic_name": "Valsartan  + Hydrochlorothiazide",
+    "drug_class": "ARB + Thiazide diuretic",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "VALSARTAN",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "HYDROCHLOROTHIAZIDE",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 1.5,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_035",
+    "brand_name": "Co-Midis 80/5mg",
+    "generic_name": "Telmisartan 80mg + Amlodipine 5mg",
+    "drug_class": "",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Telmisartan 80mg + Amlodipine 5mg",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 3.0,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_036",
+    "brand_name": "Concor",
+    "generic_name": "Bisoprolol",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Bisoprolol",
+        "dose_mg": 1.25,
+        "dose_raw": "1.25",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_037",
+    "brand_name": "Coniel",
+    "generic_name": "Benidipin Hydrochloride",
+    "drug_class": "CCB (DHP)",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Benidipin Hydrochloride",
+        "dose_mg": 4.0,
+        "dose_raw": "4",
+        "who_ddd_mg": null,
+        "who_ddd_raw": "-999",
+        "ddd_per_tab": null,
+        "is_valid_ddd": false
+      },
+      {
+        "name": "",
+        "dose_mg": 8.0,
+        "dose_raw": "8",
+        "who_ddd_mg": null,
+        "who_ddd_raw": "",
+        "ddd_per_tab": null,
+        "is_valid_ddd": false
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_038",
+    "brand_name": "Coracten",
+    "generic_name": "Nifedipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Nifedipine",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 30.0,
+        "who_ddd_raw": "30",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_039",
+    "brand_name": "Corgard",
+    "generic_name": "Nadolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Nadolol",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 160.0,
+        "who_ddd_raw": "160",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_040",
+    "brand_name": "Cozaar",
+    "generic_name": "Losartan",
+    "drug_class": "ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Losartan",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_041",
+    "brand_name": "Dazide",
+    "generic_name": "Hydrochlorothiazide/Triamterene",
+    "drug_class": "保鉀型利尿劑_抑制主細胞的Na+通道(常與Hydrochlorothiazide合併使用)",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_042",
+    "brand_name": "Dibenyline",
+    "generic_name": "Phenoxybenzamin",
+    "drug_class": "α1-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Phenoxybenzamin",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 30.0,
+        "who_ddd_raw": "30",
+        "ddd_per_tab": 0.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_043",
+    "brand_name": "Dilatrend",
+    "generic_name": "Carvedilol",
+    "drug_class": "非選擇性α+β blocker",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Carvedilol",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 37.5,
+        "who_ddd_raw": "37.5",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 6.25,
+        "dose_raw": "6.25",
+        "who_ddd_mg": 37.5,
+        "who_ddd_raw": "37.5",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 37.5,
+        "who_ddd_raw": "37.5",
+        "ddd_per_tab": 0.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_044",
+    "brand_name": "Diltelan",
+    "generic_name": "Diltiazem",
+    "drug_class": "CCB (Non-DHP)",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Diltiazem",
+        "dose_mg": 90.0,
+        "dose_raw": "90",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.375,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 120.0,
+        "dose_raw": "120",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 30.0,
+        "dose_raw": "30",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_045",
+    "brand_name": "Diovan",
+    "generic_name": "Valsartan",
+    "drug_class": "ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Valsartan",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 160.0,
+        "dose_raw": "160",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_046",
+    "brand_name": "Doxaben",
+    "generic_name": "Doxazosin",
+    "drug_class": "α1-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Doxazosin",
+        "dose_mg": 4.0,
+        "dose_raw": "4",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 1.0,
+        "dose_raw": "1",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 0.25,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 2.0,
+        "dose_raw": "2",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_047",
+    "brand_name": "Dynacirc",
+    "generic_name": "Isradipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_048",
+    "brand_name": "Eazide",
+    "generic_name": "Trichlormethiazide",
+    "drug_class": "Diuretics_thiazides",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Trichlormethiazide",
+        "dose_mg": 2.0,
+        "dose_raw": "2",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_049",
+    "brand_name": "Edarbi",
+    "generic_name": "Azilsartan Medoxomil",
+    "drug_class": "ARB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Azilsartan Medoxomil",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_050",
+    "brand_name": "ENTRESTO 100mg",
+    "generic_name": "Sacubitril+Valsartan",
+    "drug_class": "中性溶酶抑制劑+ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Sacubitril",
+        "dose_mg": 49.0,
+        "dose_raw": "49",
+        "who_ddd_mg": null,
+        "who_ddd_raw": "nil",
+        "ddd_per_tab": null,
+        "is_valid_ddd": false
+      },
+      {
+        "name": "Valsartan",
+        "dose_mg": 51.0,
+        "dose_raw": "51",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 0.6375,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_051",
+    "brand_name": "Esidri",
+    "generic_name": "Reserpine +Hydralazine +Hydrochlorothiazide",
+    "drug_class": "Vasodilators/ thiazide類 Diuretics/Neuron Blocker",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Reserpine",
+        "dose_mg": 0.1,
+        "dose_raw": "0.1",
+        "who_ddd_mg": 0.5,
+        "who_ddd_raw": "0.5",
+        "ddd_per_tab": 0.2,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Hydralazine",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 100.0,
+        "who_ddd_raw": "100",
+        "ddd_per_tab": 0.1,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.4,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 0.7,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_052",
+    "brand_name": "Euclidan",
+    "generic_name": "Nicametate Citrate",
+    "drug_class": "Vasodilators",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_053",
+    "brand_name": "Exforge ®",
+    "generic_name": "Amlodipine / Valsartan",
+    "drug_class": "CCB+ ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Valsartan",
+        "dose_mg": 160.0,
+        "dose_raw": "160",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 3.0,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_054",
+    "brand_name": "Exforge F.C.",
+    "generic_name": "Amlodipine / Valsartan",
+    "drug_class": "CCB+ ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Valsartan",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2.0,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_055",
+    "brand_name": "Exforge HCT",
+    "generic_name": "Amlodipine/Valsartan/Hydrochlorothiazide",
+    "drug_class": "CCB+ ARB+Thiazide利尿劑",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Valsartan",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2.5,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_056",
+    "brand_name": "Exnortan",
+    "generic_name": "Amlodipine  + Valsartan",
+    "drug_class": "CCB+ ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Valsartan",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_057",
+    "brand_name": "FELOPINE",
+    "generic_name": "Felodipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Felodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_058",
+    "brand_name": "Fluitran",
+    "generic_name": "Trichlormethiazide",
+    "drug_class": "Thiazide類 Diuretics",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Trichlormethiazide",
+        "dose_mg": 2.0,
+        "dose_raw": "2",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 1.0,
+        "dose_raw": "1",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 0.25,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_059",
+    "brand_name": "Herbesser",
+    "generic_name": "Diltiazem Hcl",
+    "drug_class": "CCB (Non-DHP)",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Diltiazem Hcl",
+        "dose_mg": 30.0,
+        "dose_raw": "30",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_060",
+    "brand_name": "Hypoca",
+    "generic_name": "Barnidipine Hcl",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Barnidipine Hcl",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_061",
+    "brand_name": "Hysartan",
+    "generic_name": "Losartan ＋ Hydrochlorothiazide",
+    "drug_class": "ARB / thiazide類利尿劑",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_062",
+    "brand_name": "Hytrin",
+    "generic_name": "Terazosin",
+    "drug_class": "α1-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Terazosin",
+        "dose_mg": 2.0,
+        "dose_raw": "2",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 0.4,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_063",
+    "brand_name": "HYZAAR",
+    "generic_name": "Losartan+ Hydrochlorothiazide",
+    "drug_class": "ARB / thiazide類利尿劑",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Losartan",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Hydrochlorothiazide",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2.5,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_064",
+    "brand_name": "Inderal",
+    "generic_name": "Propranolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Propranolol",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 160.0,
+        "who_ddd_raw": "160",
+        "ddd_per_tab": 0.0625,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_065",
+    "brand_name": "Inhibace",
+    "generic_name": "Cilazapril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Cilazapril",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 2.5,
+        "who_ddd_raw": "2.5",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_066",
+    "brand_name": "Inspra",
+    "generic_name": "Eplerenone",
+    "drug_class": "Diuretics_Aldosterone antagonists",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Eplerenone",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 50.0,
+        "who_ddd_raw": "50",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_067",
+    "brand_name": "Irbesartan",
+    "generic_name": "Irbesartan",
+    "drug_class": "ARB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Irbesartan",
+        "dose_mg": 150.0,
+        "dose_raw": "150",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_068",
+    "brand_name": "Ismo-20",
+    "generic_name": "Isosorbide 5 Mononitrate",
+    "drug_class": "Vasodilators",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Isosorbide 5 Mononitrate",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 60.0,
+        "dose_raw": "60",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 1.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_069",
+    "brand_name": "Isoptin",
+    "generic_name": "Verapamil",
+    "drug_class": "CCB (Non-DHP)",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Verapamil",
+        "dose_mg": 240.0,
+        "dose_raw": "240",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.166666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_070",
+    "brand_name": "Kerlone",
+    "generic_name": "Betaxolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Betaxolol",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_071",
+    "brand_name": "Lacipil",
+    "generic_name": "Lacidipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Lacidipine",
+        "dose_mg": 4.0,
+        "dose_raw": "4",
+        "who_ddd_mg": 4.0,
+        "who_ddd_raw": "4",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_072",
+    "brand_name": "Lasix",
+    "generic_name": "Furosemide",
+    "drug_class": "環利尿劑",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Furosemide",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_073",
+    "brand_name": "LASYN",
+    "generic_name": "Lacidipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_074",
+    "brand_name": "Lodipine",
+    "generic_name": "Amlodipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_075",
+    "brand_name": "Loniten",
+    "generic_name": "Minoxidil",
+    "drug_class": "Vasodilators",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Minoxidil",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_076",
+    "brand_name": "Losacar",
+    "generic_name": "Losartan",
+    "drug_class": "ARB",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_077",
+    "brand_name": "Micardis",
+    "generic_name": "Telmisartan",
+    "drug_class": "ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Telmisartan",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_078",
+    "brand_name": "Mikelan",
+    "generic_name": "Carteolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_079",
+    "brand_name": "Minipress",
+    "generic_name": "Prazosin",
+    "drug_class": "α1-block",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_080",
+    "brand_name": "Monopril",
+    "generic_name": "Fosinopril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_081",
+    "brand_name": "Mykrox",
+    "generic_name": "Metolazone",
+    "drug_class": "diuretics",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Metolazone",
+        "dose_mg": 0.5,
+        "dose_raw": "0.5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 0.1,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_082",
+    "brand_name": "Natrilix SR",
+    "generic_name": "Indapamide",
+    "drug_class": "Diuretics- thiazide類利尿劑",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Indapamide",
+        "dose_mg": 1.5,
+        "dose_raw": "1.5",
+        "who_ddd_mg": 1.5,
+        "who_ddd_raw": "1.5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 2.5,
+        "dose_raw": "2.5",
+        "who_ddd_mg": 1.5,
+        "who_ddd_raw": "1.5",
+        "ddd_per_tab": 1.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_083",
+    "brand_name": "Nebilet",
+    "generic_name": "Nebivolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Nebivolol",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_084",
+    "brand_name": "Nifedipine S.R.F.C.",
+    "generic_name": "Nifedipine",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Nifedipine",
+        "dose_mg": 30.0,
+        "dose_raw": "30",
+        "who_ddd_mg": 30.0,
+        "who_ddd_raw": "30",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_085",
+    "brand_name": "Nimotop",
+    "generic_name": "Nimodipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_086",
+    "brand_name": "Norvasc",
+    "generic_name": "Amlodipine Besylate",
+    "drug_class": "CCB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine Besylate",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_087",
+    "brand_name": "Olmetec",
+    "generic_name": "Olmesartan",
+    "drug_class": "ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Olmesartan",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_088",
+    "brand_name": "Olmeca",
+    "generic_name": "Amlodipine+Olmesartan",
+    "drug_class": "CCB+ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Olmesartan",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_089",
+    "brand_name": "Olsan F.C",
+    "generic_name": "Olmesartan",
+    "drug_class": "ARB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Olmesartan",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_090",
+    "brand_name": "Perdipine",
+    "generic_name": "Nicardipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_091",
+    "brand_name": "Persantin",
+    "generic_name": "Dipyridamole",
+    "drug_class": "Vasodilator",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Dipyridamole",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 400.0,
+        "who_ddd_raw": "400",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_092",
+    "brand_name": "Plendil",
+    "generic_name": "Felodipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Felodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_093",
+    "brand_name": "Progor",
+    "generic_name": "Diltiazen",
+    "drug_class": "CCB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Diltiazen",
+        "dose_mg": 120.0,
+        "dose_raw": "120",
+        "who_ddd_mg": 240.0,
+        "who_ddd_raw": "240",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_094",
+    "brand_name": "Propranolol",
+    "generic_name": "Propranolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Propranolol",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 160.0,
+        "who_ddd_raw": "160",
+        "ddd_per_tab": 0.25,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_095",
+    "brand_name": "Rasilez",
+    "generic_name": "Aliskiren",
+    "drug_class": "RAS (renin - angiotension system) inhibitor",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Aliskiren",
+        "dose_mg": 150.0,
+        "dose_raw": "150",
+        "who_ddd_mg": 150.0,
+        "who_ddd_raw": "150",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_096",
+    "brand_name": "Renitec",
+    "generic_name": "Enalapril",
+    "drug_class": "ACEI",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Enalapril",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_097",
+    "brand_name": "Reserpine",
+    "generic_name": "Neuron Blocker(作用在神經末梢，抑制ne被吸收進入分泌小泡，進而抑制ne的分泌)",
+    "drug_class": "",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_098",
+    "brand_name": "Sandel",
+    "generic_name": "Dipyridamole",
+    "drug_class": "Vasodilator",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Dipyridamole",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 400.0,
+        "who_ddd_raw": "400",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_099",
+    "brand_name": "Sectral",
+    "generic_name": "Acebutolol",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Acebutolol",
+        "dose_mg": 400.0,
+        "dose_raw": "400",
+        "who_ddd_mg": 400.0,
+        "who_ddd_raw": "400",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 400.0,
+        "who_ddd_raw": "400",
+        "ddd_per_tab": 0.25,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_100",
+    "brand_name": "Sevikar",
+    "generic_name": "Amlodipine +Olmesartan",
+    "drug_class": "CCB+ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Olmesartan",
+        "dose_mg": 20.0,
+        "dose_raw": "20",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2.0,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_101",
+    "brand_name": "SEVIKAR HCT FC",
+    "generic_name": "Olmesartan Medoxomil; Amlodipine Besylate; Hydrochlorothiazide",
+    "drug_class": "CCB+ARB+ thiazide_Diuretics",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Olmesartan Medoxomil; Amlodipine Besylate; Hydrochlorothiazide",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 40.0,
+        "dose_raw": "40",
+        "who_ddd_mg": 20.0,
+        "who_ddd_raw": "20",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 12.5,
+        "dose_raw": "12.5",
+        "who_ddd_mg": 25.0,
+        "who_ddd_raw": "25",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 3.5,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_102",
+    "brand_name": "Sigmart",
+    "generic_name": "Nicorandil",
+    "drug_class": "Vasodilator",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Nicorandil",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 0.125,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_103",
+    "brand_name": "Stable",
+    "generic_name": "Hydralazine HCL",
+    "drug_class": "Vasodilator",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Hydralazine HCL",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 0.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_104",
+    "brand_name": "Synbot",
+    "generic_name": "Enalapril Maleate",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Enalapril Maleate",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_105",
+    "brand_name": "SYNTREND",
+    "generic_name": "Carvedilol",
+    "drug_class": "腎上腺素接受器阻斷劑含有α1、β1 和 β2-腎上腺素接受器阻斷性質",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Carvedilol",
+        "dose_mg": 25.0,
+        "dose_raw": "25",
+        "who_ddd_mg": 37.5,
+        "who_ddd_raw": "37.5",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_106",
+    "brand_name": "Tanatril",
+    "generic_name": "Imidapril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Imidapril",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_107",
+    "brand_name": "Tenormin",
+    "generic_name": "Atenolol",
+    "drug_class": "ß-block",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Atenolol",
+        "dose_mg": 50.0,
+        "dose_raw": "50",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 0.666666667,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "",
+        "dose_mg": 100.0,
+        "dose_raw": "100",
+        "who_ddd_mg": 75.0,
+        "who_ddd_raw": "75",
+        "ddd_per_tab": 1.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_108",
+    "brand_name": "Tracleer",
+    "generic_name": "Bosentan",
+    "drug_class": "原發性肺動脈高血壓",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_109",
+    "brand_name": "Trandate",
+    "generic_name": "Labetalol",
+    "drug_class": "非選擇性α+β blocker",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Labetalol",
+        "dose_mg": 200.0,
+        "dose_raw": "200",
+        "who_ddd_mg": 600.0,
+        "who_ddd_raw": "600",
+        "ddd_per_tab": 0.333333333,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_110",
+    "brand_name": "Trental",
+    "generic_name": "Pentoxifylline",
+    "drug_class": "(吳醫師說不列入計算)PERIPHERAL VASODILATORS",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Pentoxifylline",
+        "dose_mg": 400.0,
+        "dose_raw": "400",
+        "who_ddd_mg": 1000.0,
+        "who_ddd_raw": "1000",
+        "ddd_per_tab": 0.4,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_111",
+    "brand_name": "Tritace",
+    "generic_name": "Ramipril",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Ramipril",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 2.5,
+        "who_ddd_raw": "2.5",
+        "ddd_per_tab": 4.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_112",
+    "brand_name": "TWYNSTA",
+    "generic_name": "Amlodipine+Telmisartan",
+    "drug_class": "CCB+ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5.0,
+        "dose_raw": "5",
+        "who_ddd_mg": 5.0,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Telmisartan",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 40.0,
+        "who_ddd_raw": "40",
+        "ddd_per_tab": 2.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_113",
+    "brand_name": "Valsartan",
+    "generic_name": "Valsartan",
+    "drug_class": "ARB",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Valsartan",
+        "dose_mg": 80.0,
+        "dose_raw": "80",
+        "who_ddd_mg": 80.0,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_114",
+    "brand_name": "Ventavis nebulizer solution",
+    "generic_name": "Iloprost Trometamol",
+    "drug_class": "原發性肺動脈高血壓",
+    "is_combination": false,
+    "components": [],
+    "total_tab_ddd": null,
+    "all_comps_valid": false
+  },
+  {
+    "id": "tb_115",
+    "brand_name": "Zanidip",
+    "generic_name": "Lercanidipine",
+    "drug_class": "CCB (DHP)",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Lercanidipine",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_116",
+    "brand_name": "Zestril",
+    "generic_name": "Lisinopril Dihydrate",
+    "drug_class": "ACEI",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Lisinopril Dihydrate",
+        "dose_mg": 10.0,
+        "dose_raw": "10",
+        "who_ddd_mg": 10.0,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 1.0,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  }
+]

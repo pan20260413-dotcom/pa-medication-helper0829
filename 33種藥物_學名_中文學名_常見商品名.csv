@@ -1,0 +1,34 @@
+﻿編號,學名,中文學名,常見英文商品名,常見中文商品名,單/複方分類,成分說明/複方拆解,臨床注意事項與備註
+1,Valsartan,纈沙坦,Diovan / Exforge / Co-Diovan / Valpress / Valstar,得安穩錠 / 易安穩錠 - 併用 Amlodipine / 協得安穩膜衣錠／協代衛 - 併用 HCTZ / 壓莎膜衣錠 / 發爾坦膜衣錠,複方,🔬 複方拆解成分：Valsartan (單方代文) / 易安穩: Amlodipine + Valsartan / 協代衛: Valsartan + HCTZ,洗脫期間建議改用 Alpha-blocker (如 Doxazosin 可多華) 或 Dihydropyridine CCB (如 Amlodipine 脈優) 控制血壓。
+2,Losartan,氯沙坦,Cozaar / Hyzaar / Losa & Hydro / Losar / Ansartan,可悅您膜衣錠／俗稱可薩帝 / 海捷亞膜衣錠 - 併用 HCTZ / 那寶穩膜衣錠／落沙 - 併用 HCTZ / 洛沙坦 / 安沙坦,複方,🔬 複方拆解成分：Losartan (單方) / 落沙、海捷亞: Losartan + Hydrochlorothiazide,洗脫期間可轉換為 Doxazosin 4- 或 Amlodipine 5-。
+3,Candesartan,坎地沙坦,Blopress / Unisia / Candetan,博脈舒錠 / 優雅錠 - 併用 Amlodipine / 坎地膜衣錠,複方,🔬 複方拆解成分：Candesartan (單方博脈舒) / 優雅錠: Candesartan + Amlodipine,若使用優力莎 (Unisia 複方)，建議改為單方 Amlodipine 脈優 或 Doxazosin 可多華 控壓。
+4,Olmesartan,奧美沙坦,Olmetec / Sevikar / Amlobin-O,雅脈膜衣錠 / 舒脈康膜衣錠 - 併用 Amlodipine / 降壓安錠 - 併用 Amlodipine,複方,🔬 複方拆解成分：Olmesartan (單方奧美定) / 舒脈康/安壓雙好: Olmesartan + Amlodipine / 安脈: Olmesartan + Amlodipine,洗脫期間若使用安脈樂 (Amlobin-O) 或安壓雙好 (Sevikar) 等複方藥物，應評估改用單方 Amlodipine 脈優 或 Doxazosin 可多華。
+5,Telmisartan,替米沙坦,Micardis / Twynsta / Micardis Plus,美卡定錠／必康平錠 / 特溫速錠／倍必康平錠 - 併用 Amlodipine / 美卡定複方錠／複必康平錠 - 併用 HCTZ,複方,🔬 複方拆解成分：Telmisartan (單方) / 特溫速: Telmisartan + Amlodipine,洗脫期血壓控制可替換為 Doxazosin 或 Amlodipine。
+6,Azilsartan,阿齊沙坦,Edarbi / Edarbyclor / Edarpen,易妥壓膜衣錠／俗稱依達比 / 易妥壓複方膜衣錠 - 併用 Chlorthalidone / 易得平錠,單方,單方成分：Azilsartan (單方依達比),洗脫期間建議改用 Alpha-blocker (Doxazosin 可多華) 控制血壓。
+7,Irbesartan,厄貝沙坦,Aprovel / Co-Aprovel / Irbesan / Irbetan,安普諾維 / 可普諾維膜衣錠 - 併用 HCTZ / 伊貝沙坦／降壓佳膜衣錠 / 爾壓順膜衣錠,複方,🔬 複方拆解成分：Irbesartan (單方) / 協安博律: Irbesartan + HCTZ,洗脫期替代藥物首選 Alpha-blocker (Doxazosin) 與 CCB (Amlodipine)。
+8,Enalapril,依那普利,Sintec / Renitec / Synapril / Co-Renitec / Synbot,樂壓 / 悅壓妥 / 順壓利 / 協悅壓妥 / 欣保,單方,單方成分：Enalapril (單方悅壓妥),洗脫期間建議替換為 Doxazosin 或 Amlodipine。
+9,Lisinopril,賴諾普利,Zestril / Zestoretic / Noprisil,捷賜瑞錠 / 捷賜瑞複方錠 - 併用 HCTZ / 益壓息錠,單方,單方成分：Lisinopril (單方捷適壓) / Zestoretic (捷適壓複方: 賴諾普利 / 氫氯噻嗪),Zestoretic（中文商品名：捷適壓複方）是一種口服複合性降血壓藥物，主要結合了 [賴諾普利/氫氯噻嗪] 兩種成分，專門用來治療高血壓，當單一成分無法有效控制血壓時使用。
+10,Perindopril,培哚普利,Coversyl / Preterax / Coveram,雅施達膜衣錠 / 雅抑適錠 - 併用 Indapamide / 康復來錠 - 併用 Amlodipine,複方,🔬 複方拆解成分：Perindopril (單方) / 雅押密: Perindopril + Amlodipine,洗脫期轉換藥物首選 Doxazosin / Amlodipine。
+11,Amlodipine,氨氯地平,Norvasc / Amilo / Caduet / Exforge / Unisia / Amlobin-O,脈優錠 / 脈平錠 / 卡杜特膜衣錠 - 併用 Atorvastatin / 易安穩錠 - 併用 Valsartan / 優雅錠 - 併用 Candesartan / 降壓安錠 - 併用 Olmesartan,複方,🔬 複方拆解成分：Amlodipine (單方脈優/脈平錠) / 易安穩: Amlodipine + Valsartan / 優雅錠: Amlodipine + Candesartan / 卡杜特: Amlodipine + Atorvastatin / 安脈: Amlodipine + Olmesartan,"若洗脫其他高干擾藥物 (如 MRA, Beta-blocker) 時血壓飆高，可加用 Amlodipine 5-。"
+12,Nifedipine,硝苯地平,Adalat OROS / Nifedipine SR / 恆脈循,冠達悅歐樂持續性藥效錠 / 長效劑型 / 持續性膜衣錠,單方,單方成分：Nifedipine OROS (冠達悅長效錠),可與 Doxazosin 聯合用於洗脫期間之血壓控制。
+13,Bisoprolol,比索洛爾,Concor / Bisoplus,康肯轉釋錠／康肯平錠 / 康肯複方錠 - 併用 HCTZ,單方,單方成分：Bisoprolol (單方康肯) / Bisoplus (康肯複方: Bisoprolol + Hydrochlorothiazide),Bisoplus（中文商品名：康肯複方）為口服複合性降壓錠，結合 Bisoprolol（比索洛爾，乙型阻斷劑 Beta-blocker）+ Hydrochlorothiazide（氫氯噻嗪，簡稱 HCTZ 利尿劑）兩種成分。
+14,Nebivolol,奈比洛爾,Nebilet / Nebipress,耐比洛錠；民間亦稱內必洛、奈比樂 / 舒爾脈錠,單方,單方成分：Nebivolol (單方奈比樂),洗脫期間建議轉換為 Doxazosin 4- 或 Amlodipine 5-。
+15,Propranolol,普萘洛爾,Inderal / 心律錠,恩特來錠 / 國產學名藥,單方,單方成分：Propranolol (單方恩特來),洗脫期間建議替換為 Alpha-blocker (Doxazosin 可多華) 或 CCB (Amlodipine 脈優)。
+16,Carvedilol,卡維地洛,Dilatrend / 壓落保錠 / Syntrend,達利全錠 / 壓落保錠 / 心全錠,單方,單方成分：Carvedilol (單方達利全),洗脫期間建議轉換為純 Alpha-1 阻斷劑 Doxazosin 替代。
+17,Metoprolol,美托洛爾,Betaloc ZOK / Lopressor / Cancliol,舒壓寧控釋錠；Succinate / 羅壓樂錠；Tartrate / 明德心壓暢錠,單方,單方成分：Metoprolol (單方巨星),建議替換為 Amlodipine 脈優 或 Doxazosin 可多華 控制血壓。
+18,Atenolol,阿替洛爾,Tenormin / Urosin / Tenolol / Ateol,天諾敏錠 / 優心膜衣錠 / 定樂平錠 / 壓平樂膠衣錠,單方,單方成分：Atenolol (單方天諾敏),替換為 Doxazosin 可多華 進行洗脫期控壓。
+19,Propafenone,普羅帕酮,Rytmonorm / Rytmonorm SR / Rhynorm,心利正膜衣錠 / 心利正緩釋膠囊 / 律諾膜衣錠,單方,單方成分：Propafenone (單方律摩諾),切勿為洗脫 PA 藥物而隨意停用 Class IC 抗心律不整藥物。
+20,Hydrochlorothiazide,氫氯噻嗪,Esidrex / Co-Diovan / Hyzaar / Losa & Hydro / Blopress Plus,單方；檔案註明台灣市面較少見 / 複方 / 複方 / 複方 / 複方,複方,🔬 複方拆解成分：HCTZ (單方) / 協代衛、海捷亞、落沙: ARB + HCTZ,篩檢前補鉀非常重要，血鉀低於 3.5 mEq/L 會使 PA 篩檢準確率顯著下降。
+21,Furosemide,呋塞米,Lasix / Furide / Uretropic / Rosis,來適泄錠／注射液 / 舒利諾錠 / 通舒錠 / 樂泄錠,單方,單方成分：Furosemide (單方來喜息),若心衰竭水腫嚴重無法停用 Lasix，需於病歷詳細記載利尿劑使用狀態。
+22,Spironolactone,螺內酯 / 安達通 / 愛達信,Aldactone / Aldactin / Solatone,安達通錠 / 愛達信錠 / 輸泌來錠,單方,單方成分：Spironolactone (單方樂安定),★ PA 標靶治療首選用藥！英文學名 (通用成分名)：Spironolactone；原廠商品名：Aldactone (台灣普遍譯為：安達通)；常見台灣學名藥：Aldactin (愛達信)、輸泌來錠。
+23,Eplerenone,依普利酮,Inspra,迎甦心膜衣錠／英斯平,單方,單方成分：Eplerenone (單方英斯平),特別附註：Inspra（中文商品名：迎甦心膜衣錠）主成分為 Eplerenone，是一種醛固酮受體拮抗劑 (MRA)。
+24,Doxazosin,多沙唑辛 / 多沙唑嗪,Cardura / Cardura XL / Xadosin / Doxasin / Doxaben XL,可多華錠 / 可多華持續性藥效錠 / 薩多心錠 / 可迅持續性藥效錠,單方,單方成分：Doxazosin (單方可多華),可與 Amlodipine 脈優 或 Verapamil 併用以達到良好的洗脫期血壓控制目標 (<140/90 mmHg)。
+25,Verapamil (Sustained-Release),維拉帕米,Isoptin SR / Isoptin / Vasolan,心舒平持續性膜衣錠＋240 mg / 心舒平錠＋40 mg / 維舒錠＋40 mg,單方,單方成分：Verapamil SR (單方心舒平/伊速平),注意常有便祕副作用，建議多攝取膳食纖維與水分。
+26,Isosorbide mononitrate,單硝酸異山梨酯,Imdur / Ibimo / Coxine C.R. / Isormol / Coxine,寬心持續性藥效錠＋60 mg / 愛彼脈持續性藥效膜衣錠＋60 mg / 冠欣持續性藥效錠＋60 mg / 愛速脈錠／冠欣錠＋20 mg,單方,單方成分：Isosorbide mononitrate (單方愛彼脈),初次使用可能出現血管擴張性頭痛，通常隨治療進行減輕。
+27,Diltiazem HCl,地爾硫䓬 / 地爾硫卓,Cardizem Retard / Herbesser / Diltisser / Diltelan,凱帝心徐放錠 / 合必爽錠 / 迪心贊錠 / 達爾能持續性膠囊,單方,單方成分：Diltiazem HCl (單方凱帝心),注意避免與 Grapefruit juice (葡萄汁/柚子) 同時服藥。
+28,Amlodipine / Olmesartan medoxomil,氨氯地平 / 奧美沙坦,OlsaaCa / OlsaaCa HCTZ,双優惠脈錠 / 三優惠脈錠,複方,🔬 複方拆解成分：Amlodipine (CCB) + Olmesartan medoxomil (ARB),含有 Olmesartan，需注意少數個案之腸病樣腹瀉 (Sprue-like enteropathy) 副作用報告。
+29,Olmesartan medoxomil / Amlodipine besylate,奧美沙坦 / 氨氯地平,Sevikar / Amlobin-O / Anxo,舒脈康膜衣錠；原廠 / 降壓安錠 / 釋壓膜衣錠,複方,🔬 複方拆解成分：Olmesartan medoxomil (ARB) + Amlodipine besylate (CCB),洗脫期間替換為 Doxazosin。
+30,Lercanidipine,樂卡地平,Zanidip / Lercanidipine Mylan,利壓膜衣錠 / 樂可平膜衣錠,單方,單方成分：Lercanidipine (單方利壓),應於餐前至少 15 分鐘空腹服用。
+31,Benidipine,貝尼地平,Beniel,保你爾膜衣錠,單方,單方成分：Benidipine (單方保你爾),建議餐後服用。
+32,Lacidipine,樂西地平 / 拉西地平,Lacipil / LESYN,樂息平錠 / 樂壓定膜衣錠,單方,單方成分：Lacidipine (單方樂壓定),建議每日定時服用，避免與葡萄柚汁同時併服。
+33,Hydralazine,肼屈嗪,Apresoline / Stable / Aprezin,阿普利素寧糖衣錠 / 血得平錠 / 壓平利淨錠／哈伯寧錠,單方,單方成分：Hydralazine (單方肼屈嗪),可作為 PA 篩檢前維持血壓控制時的替代選項之一。
