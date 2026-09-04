@@ -760,6 +760,28 @@ body {
   margin-top: 0.25rem;
 }
 
+.footer-contact-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: #38bdf8;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.4rem 0.75rem;
+  background: rgba(56, 189, 248, 0.1);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+  margin-top: 0.65rem;
+}
+
+.footer-contact-link:hover {
+  background: rgba(56, 189, 248, 0.25);
+  color: #ffffff;
+  border-color: #38bdf8;
+  box-shadow: 0 2px 8px rgba(56, 189, 248, 0.2);
+}
+
 .pwa-install-badge {
   background: rgba(255,255,255,0.1);
   padding: 0.5rem 0.85rem;
