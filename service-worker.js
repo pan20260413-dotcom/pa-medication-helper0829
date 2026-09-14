@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pa-hypertension-helper-v12';
+const CACHE_NAME = 'pa-hypertension-helper-v13';
 const APP_SHELL = [
   './',
   './index.html',
