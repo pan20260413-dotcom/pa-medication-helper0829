@@ -1,4 +1,4 @@
-﻿編號,學名,中文學名,常見英文商品名,常見中文商品名,單/複方分類,成分說明/複方拆解,臨床注意事項與備註
+編號,學名,中文學名,常見英文商品名,常見中文商品名,單/複方分類,成分說明/複方拆解,臨床注意事項與備註
 1,Valsartan,纈沙坦,Diovan / Exforge / Co-Diovan / Valpress / Valstar,得安穩錠 / 易安穩錠 - 併用 Amlodipine / 協得安穩膜衣錠／協代衛 - 併用 HCTZ / 壓莎膜衣錠 / 發爾坦膜衣錠,複方,🔬 複方拆解成分：Valsartan (單方代文) / 易安穩: Amlodipine + Valsartan / 協代衛: Valsartan + HCTZ,洗脫期間建議改用 Alpha-blocker (如 Doxazosin 可多華) 或 Dihydropyridine CCB (如 Amlodipine 脈優) 控制血壓。
 2,Losartan,氯沙坦,Cozaar / Hyzaar / Losa & Hydro / Losar / Ansartan,可悅您膜衣錠／俗稱可薩帝 / 海捷亞膜衣錠 - 併用 HCTZ / 那寶穩膜衣錠／落沙 - 併用 HCTZ / 洛沙坦 / 安沙坦,複方,🔬 複方拆解成分：Losartan (單方) / 落沙、海捷亞: Losartan + Hydrochlorothiazide,洗脫期間可轉換為 Doxazosin 4- 或 Amlodipine 5-。
 3,Candesartan,坎地沙坦,Blopress / Unisia / Candetan,博脈舒錠 / 優雅錠 - 併用 Amlodipine / 坎地膜衣錠,複方,🔬 複方拆解成分：Candesartan (單方博脈舒) / 優雅錠: Candesartan + Amlodipine,若使用優力莎 (Unisia 複方)，建議改為單方 Amlodipine 脈優 或 Doxazosin 可多華 控壓。
@@ -9,7 +9,7 @@
 8,Enalapril,依那普利,Sintec / Renitec / Synapril / Co-Renitec / Synbot,樂壓 / 悅壓妥 / 順壓利 / 協悅壓妥 / 欣保,單方,單方成分：Enalapril (單方悅壓妥),洗脫期間建議替換為 Doxazosin 或 Amlodipine。
 9,Lisinopril,賴諾普利,Zestril / Zestoretic / Noprisil,捷賜瑞錠 / 捷賜瑞複方錠 - 併用 HCTZ / 益壓息錠,單方,單方成分：Lisinopril (單方捷適壓) / Zestoretic (捷適壓複方: 賴諾普利 / 氫氯噻嗪),Zestoretic（中文商品名：捷適壓複方）是一種口服複合性降血壓藥物，主要結合了 [賴諾普利/氫氯噻嗪] 兩種成分，專門用來治療高血壓，當單一成分無法有效控制血壓時使用。
 10,Perindopril,培哚普利,Coversyl / Preterax / Coveram,雅施達膜衣錠 / 雅抑適錠 - 併用 Indapamide / 康復來錠 - 併用 Amlodipine,複方,🔬 複方拆解成分：Perindopril (單方) / 雅押密: Perindopril + Amlodipine,洗脫期轉換藥物首選 Doxazosin / Amlodipine。
-11,Amlodipine,氨氯地平,Norvasc / Amilo / Caduet / Exforge / Unisia / Amlobin-O,脈優錠 / 脈平錠 / 卡杜特膜衣錠 - 併用 Atorvastatin / 易安穩錠 - 併用 Valsartan / 優雅錠 - 併用 Candesartan / 降壓安錠 - 併用 Olmesartan,複方,🔬 複方拆解成分：Amlodipine (單方脈優/脈平錠) / 易安穩: Amlodipine + Valsartan / 優雅錠: Amlodipine + Candesartan / 卡杜特: Amlodipine + Atorvastatin / 安脈: Amlodipine + Olmesartan,"若洗脫其他高干擾藥物 (如 MRA, Beta-blocker) 時血壓飆高，可加用 Amlodipine 5-。"
+11,Amlodipine,氨氯地平,Norvasc / Amilo / Caduet / Exforge / Unisia / Amlobin-O,脈優錠 / 安壓得穩錠 / 脈平錠 / 卡杜特膜衣錠 - 併用 Atorvastatin / 易安穩錠 - 併用 Valsartan / 優雅錠 - 併用 Candesartan / 降壓安錠 - 併用 Olmesartan,複方,🔬 複方拆解成分：Amlodipine (單方脈優/安壓得穩/脈平錠) / 易安穩: Amlodipine + Valsartan / 優雅錠: Amlodipine + Candesartan / 卡杜特: Amlodipine + Atorvastatin / 安脈: Amlodipine + Olmesartan,"若洗脫其他高干擾藥物 (如 MRA, Beta-blocker) 時血壓飆高，可加用 Amlodipine 5-。"
 12,Nifedipine,硝苯地平,Adalat OROS / Nifedipine SR / 恆脈循,冠達悅歐樂持續性藥效錠 / 長效劑型 / 持續性膜衣錠,單方,單方成分：Nifedipine OROS (冠達悅長效錠),可與 Doxazosin 聯合用於洗脫期間之血壓控制。
 13,Bisoprolol,比索洛爾,Concor / Bisoplus,康肯轉釋錠／康肯平錠 / 康肯複方錠 - 併用 HCTZ,單方,單方成分：Bisoprolol (單方康肯) / Bisoplus (康肯複方: Bisoprolol + Hydrochlorothiazide),Bisoplus（中文商品名：康肯複方）為口服複合性降壓錠，結合 Bisoprolol（比索洛爾，乙型阻斷劑 Beta-blocker）+ Hydrochlorothiazide（氫氯噻嗪，簡稱 HCTZ 利尿劑）兩種成分。
 14,Nebivolol,奈比洛爾,Nebilet / Nebipress,耐比洛錠；民間亦稱內必洛、奈比樂 / 舒爾脈錠,單方,單方成分：Nebivolol (單方奈比樂),洗脫期間建議轉換為 Doxazosin 4- 或 Amlodipine 5-。
