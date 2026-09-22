@@ -138,6 +138,76 @@ function renderTfdaSectionHtml(med) {
 }
 
 
+
+function renderQuickRefCardHtml(extraStyle = 'margin-top: 1.25rem;') {
+  return `
+    <div class="quick-ref-card" style="${extraStyle}">
+      <details class="quick-ref-details" style="background: #ffffff; border: 1px solid var(--border, #e2e8f0); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+        <summary class="quick-ref-summary" style="padding: 0.75rem 1.1rem; font-weight: 800; font-size: 0.98rem; color: var(--primary-dark, #1e3a8a); cursor: pointer; display: flex; align-items: center; justify-content: space-between; user-select: none; background: linear-gradient(135deg, #f0f7ff 0%, #e0f2fe 100%);">
+          <span style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+            <span>🔍 常見降血壓藥物 7 大類英文字尾速查表</span>
+            <span style="font-size: 0.75rem; font-weight: 700; background: var(--primary, #0284c7); color: #ffffff; padding: 0.15rem 0.55rem; border-radius: 12px;">點擊展開 / 收合對照表</span>
+          </span>
+          <span style="font-size: 0.82rem; color: var(--primary); font-weight: 700;">▼ 展開資訊</span>
+        </summary>
+        <div style="padding: 1rem 1.1rem; border-top: 1px solid var(--border, #e2e8f0); background: #ffffff;">
+          <p style="font-size: 0.88rem; color: var(--text-muted, #64748b); margin-bottom: 0.75rem; line-height: 1.5;">
+            這份清單涵蓋了目前醫學上最主流的降血壓藥物機轉與英文命名規則。您可在檢索、試算與比對時，依據英文學名字尾（如 <code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-sartan</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-lol</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-dipine</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-zosin</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-pril</code>）快速辨識藥物大類：
+          </p>
+          <div style="overflow-x: auto;">
+            <table class="clinic-table" style="width: 100%; font-size: 0.86rem; border-collapse: collapse; min-width: 580px;">
+              <thead>
+                <tr style="background: #f8fafc; border-bottom: 2px solid #e2e8f0;">
+                  <th style="padding: 0.6rem 0.8rem; text-align: left; font-weight: 800; color: var(--primary-dark, #1e3a8a); width: 22%;">藥物大類簡稱</th>
+                  <th style="padding: 0.6rem 0.8rem; text-align: left; font-weight: 800; color: var(--primary-dark, #1e3a8a); width: 33%;">中文名稱</th>
+                  <th style="padding: 0.6rem 0.8rem; text-align: left; font-weight: 800; color: var(--primary-dark, #1e3a8a); width: 45%;">常見代表藥物字尾／辨識（英文）</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr style="border-bottom: 1px solid #f1f5f9;">
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">ACEI</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">血管張力素轉化酶抑制劑</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-pril</code> (如 Captopril, Enalapril, Lisinopril, Perindopril)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">ARB</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">血管張力素受體阻斷劑</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-sartan</code> (如 Losartan, Valsartan, Candesartan, Olmesartan, Telmisartan)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #f1f5f9;">
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">CCB</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">鈣離子通道阻斷劑</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-dipine</code> (如 Amlodipine, Nifedipine, Lacidipine) 及非二氫吡啶類如 Diltiazem, Verapamil</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">Beta-blocker</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">乙型交感神經受體阻斷劑</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-lol</code> (如 Atenolol, Propranolol, Bisoprolol, Nebivolol, Metoprolol)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #f1f5f9;">
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">Alpha-blocker</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">腎上腺素受體阻斷劑</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-zosin</code> (如 Doxazosin, Terazosin, Prazosin)</td>
+                </tr>
+                <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">MRA</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">鹽皮質受體拮抗劑</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">Spironolactone (安達通/愛達信), Eplerenone (依普利酮)</td>
+                </tr>
+                <tr>
+                  <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">Diuretics</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">利尿劑（含 Furosemide）</td>
+                  <td style="padding: 0.55rem 0.8rem; color: #334155;">Furosemide (來適泄), Hydrochlorothiazide (HCTZ), Indapamide</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </details>
+    </div>
+  `;
+}
+
 function renderFdaSectionHtml(med) {
   if (med.dailymed_url) {
     return `<div style="font-size:0.8rem;margin-top:0.25rem;color:var(--text-body);display:flex;align-items:center;gap:0.35rem;flex-wrap:wrap;">
@@ -367,71 +437,7 @@ function renderHome() {
         ${chipsHtml}
       </div>
 
-      <!-- 💡 常見降血壓藥物 7 大類速查折疊卡片 -->
-      <div class="quick-ref-card" style="margin-top: 1.25rem;">
-        <details class="quick-ref-details" style="background: #ffffff; border: 1px solid var(--border, #e2e8f0); border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-          <summary class="quick-ref-summary" style="padding: 0.75rem 1.1rem; font-weight: 800; font-size: 0.98rem; color: var(--primary-dark, #1e3a8a); cursor: pointer; display: flex; align-items: center; justify-content: space-between; user-select: none; background: linear-gradient(135deg, #f0f7ff 0%, #e0f2fe 100%);">
-            <span style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
-              <span>🔍 常見降血壓藥物 7 大類英文字尾速查表</span>
-              <span style="font-size: 0.75rem; font-weight: 700; background: var(--primary, #0284c7); color: #ffffff; padding: 0.15rem 0.55rem; border-radius: 12px;">點擊展開 / 收合對照表</span>
-            </span>
-            <span style="font-size: 0.82rem; color: var(--primary); font-weight: 700;">▼ 展開資訊</span>
-          </summary>
-          <div style="padding: 1rem 1.1rem; border-top: 1px solid var(--border, #e2e8f0); background: #ffffff;">
-            <p style="font-size: 0.88rem; color: var(--text-muted, #64748b); margin-bottom: 0.75rem; line-height: 1.5;">
-              這份清單涵蓋了目前醫學上最主流的降血壓藥物機轉與英文命名規則。您可在上方搜尋框直接輸入英文學名字尾（如 <code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-sartan</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-lol</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-dipine</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-zosin</code>、<code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.35rem;border-radius:4px;font-weight:700;">-pril</code>）快速檢索對應藥物：
-            </p>
-            <div style="overflow-x: auto;">
-              <table class="clinic-table" style="width: 100%; font-size: 0.86rem; border-collapse: collapse; min-width: 580px;">
-                <thead>
-                  <tr style="background: #f8fafc; border-bottom: 2px solid #e2e8f0;">
-                    <th style="padding: 0.6rem 0.8rem; text-align: left; font-weight: 800; color: var(--primary-dark, #1e3a8a); width: 22%;">藥物大類簡稱</th>
-                    <th style="padding: 0.6rem 0.8rem; text-align: left; font-weight: 800; color: var(--primary-dark, #1e3a8a); width: 33%;">中文名稱</th>
-                    <th style="padding: 0.6rem 0.8rem; text-align: left; font-weight: 800; color: var(--primary-dark, #1e3a8a); width: 45%;">常見代表藥物字尾／辨識（英文）</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr style="border-bottom: 1px solid #f1f5f9;">
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">ACEI</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">血管張力素轉化酶抑制劑</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-pril</code> (如 Captopril, Enalapril, Lisinopril, Perindopril)</td>
-                  </tr>
-                  <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">ARB</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">血管張力素受體阻斷劑</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-sartan</code> (如 Losartan, Valsartan, Candesartan, Olmesartan, Telmisartan)</td>
-                  </tr>
-                  <tr style="border-bottom: 1px solid #f1f5f9;">
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">CCB</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">鈣離子通道阻斷劑</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-dipine</code> (如 Amlodipine, Nifedipine, Lacidipine) 及非二氫吡啶類如 Diltiazem, Verapamil</td>
-                  </tr>
-                  <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">Beta-blocker</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">乙型交感神經受體阻斷劑</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-lol</code> (如 Atenolol, Propranolol, Bisoprolol, Nebivolol, Metoprolol)</td>
-                  </tr>
-                  <tr style="border-bottom: 1px solid #f1f5f9;">
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">Alpha-blocker</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">腎上腺素受體阻斷劑</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;"><code style="background:#eff6ff;color:#1d4ed8;padding:0.1rem 0.4rem;border-radius:4px;font-weight:700;">-zosin</code> (如 Doxazosin, Terazosin, Prazosin)</td>
-                  </tr>
-                  <tr style="border-bottom: 1px solid #f1f5f9; background: #fafafa;">
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">MRA</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">鹽皮質受體拮抗劑</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">Spironolactone (安達通/愛達信), Eplerenone (依普利酮)</td>
-                  </tr>
-                  <tr>
-                    <td style="padding: 0.55rem 0.8rem; font-weight: 800; color: #0284c7;">Diuretics</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">利尿劑（含 Furosemide）</td>
-                    <td style="padding: 0.55rem 0.8rem; color: #334155;">Furosemide (來適泄), Hydrochlorothiazide (HCTZ), Indapamide</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
-          </div>
-        </details>
-      </div>
+      ${renderQuickRefCardHtml("margin-top: 1.25rem;")}
     </section>
 
     <!-- 3. 33+ 種降血壓藥物圖鑑卡片 -->
@@ -552,9 +558,13 @@ function renderResearch() {
       <div style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.25rem 0.65rem;background:var(--primary-soft);color:var(--primary);font-size:0.8rem;font-weight:800;border-radius:999px;margin-bottom:0.5rem;">
         🔬 臨床研究人員與醫師專用工具
       </div>
+
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
       <h1 style="font-size:1.85rem;font-weight:900;color:var(--primary-dark);margin-bottom:0.25rem;">PA / ARR 試算與條件篩選工具 (Research Screening Tool)</h1>
       <p style="font-size:0.95rem;color:var(--text-muted);">輸入個案生化抽血數值 PAC 與 PRA，系統將自動計算 ARR 比值，對照收案篩選條件，並連動分析目前用藥對結果的干擾。</p>
     </div>
+
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
 
     <div style="display:grid;grid-template-columns:1.1fr 1fr;gap:1.5rem;">
       <!-- 左側：數據輸入與結果牌 -->
@@ -686,6 +696,8 @@ function renderPathway() {
       <div style="display:inline-flex;align-items:center;gap:0.35rem;padding:0.25rem 0.65rem;background:var(--primary-soft);color:var(--primary);font-size:0.8rem;font-weight:800;border-radius:999px;margin-bottom:0.5rem;">
         🏥 PA Clinical Pathway & Subtyping Guide 2026
       </div>
+
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
       <h1 style="font-size:1.85rem;font-weight:900;color:var(--primary-dark);margin-bottom:0.25rem;">原發性醛固酮過多症 (PA) 臨床路徑與確診指引</h1>
       <p style="font-size:0.95rem;color:var(--text-muted);">本專區提供依據 Endocrine Society Guidelines (2016) 與台灣高血壓學會共識制定之 4 步驟臨床路徑、確診試驗判讀工具與 MRA 標靶治療建議。</p>
     </div>
@@ -931,6 +943,8 @@ function renderCalculator() {
       <p style="font-size:0.95rem;color:var(--text-muted);">勾選病人目前發藥處方，或點選下方社區健檢常見多藥組合進行快速帶入評估。</p>
     </div>
 
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
+
     <!-- Quick Presets -->
     <div style="background:#ffffff;border:1px solid var(--border-strong);border-radius:10px;padding:1.25rem;margin-bottom:1.5rem;">
       <h3 style="font-size:0.98rem;font-weight:800;color:var(--primary);margin-bottom:0.75rem;display:flex;align-items:center;gap:0.5rem;">
@@ -1025,6 +1039,8 @@ function renderMatrix() {
       <p style="font-size:0.95rem;color:var(--text-muted);">一覽所有降壓藥物對 PAC (醛固酮)、PRA (腎素活性) 及 ARR 比值之影響與建議洗脫期。</p>
     </div>
 
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
+
     <div class="table-card">
       <table class="clinic-table">
         <thead>
@@ -1075,6 +1091,8 @@ function renderWashout() {
       <h1 style="font-size:1.8rem;font-weight:900;color:var(--primary-dark);margin-bottom:0.25rem;">降血壓藥物洗脫期與替代藥物專頁</h1>
       <p style="font-size:0.95rem;color:var(--text-muted);">門診收案與 ARR 篩檢採血前之藥物調整與洗脫期管理指引。</p>
     </div>
+
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
 
     <!-- 1. 洗脫期參考 -->
     <section class="washout-section" style="margin-bottom:2rem;">
@@ -1271,6 +1289,8 @@ function renderCompare() {
       <h1 style="font-size:1.8rem;font-weight:900;color:var(--primary-dark);margin-bottom:0.25rem;">藥物併排外觀與干擾比對工具</h1>
       <p style="font-size:0.95rem;color:var(--text-muted);">選擇兩種降血壓藥物進行外觀與 PAC/PRA/ARR 影響的比對。</p>
     </div>
+
+    ${renderQuickRefCardHtml("margin-bottom: 1.5rem;")}
 
     <div style="display:flex;gap:1rem;margin-bottom:1.5rem;flex-wrap:wrap;">
       <select id="compare-select-a" style="flex:1;min-width:240px;padding:0.75rem;border-radius:6px;border:2px solid var(--border);font-size:0.95rem;font-family:inherit;">
