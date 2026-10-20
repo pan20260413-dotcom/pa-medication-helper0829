@@ -8,9 +8,9 @@
     "components": [
       {
         "name": "Quinapril",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 15.0,
+        "who_ddd_mg": 15,
         "who_ddd_raw": "15",
         "ddd_per_tab": 0.666666667,
         "is_valid_ddd": true
@@ -28,11 +28,11 @@
     "components": [
       {
         "name": "Acebutolol",
-        "dose_mg": 400.0,
+        "dose_mg": 400,
         "dose_raw": "400",
-        "who_ddd_mg": 400.0,
+        "who_ddd_mg": 400,
         "who_ddd_raw": "400",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -48,27 +48,27 @@
     "components": [
       {
         "name": "Temocapril",
-        "dose_mg": 1.0,
+        "dose_mg": 1,
         "dose_raw": "1",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 2.0,
+        "dose_mg": 2,
         "dose_raw": "2",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.2,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 4.0,
+        "dose_mg": 4,
         "dose_raw": "4",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.4,
         "is_valid_ddd": true
@@ -86,9 +86,9 @@
     "components": [
       {
         "name": "Perindopril",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
         "ddd_per_tab": 1.25,
         "is_valid_ddd": true
@@ -106,11 +106,11 @@
     "components": [
       {
         "name": "Perindopril + Indapamide",
-        "dose_mg": 4.0,
+        "dose_mg": 4,
         "dose_raw": "4",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
@@ -135,18 +135,18 @@
     "components": [
       {
         "name": "Nifedipine",
-        "dose_mg": 30.0,
+        "dose_mg": 30,
         "dose_raw": "30",
-        "who_ddd_mg": 30.0,
+        "who_ddd_mg": 30,
         "who_ddd_raw": "30",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 30.0,
+        "who_ddd_mg": 30,
         "who_ddd_raw": "30",
         "ddd_per_tab": 0.166666667,
         "is_valid_ddd": true
@@ -164,9 +164,9 @@
     "components": [
       {
         "name": "Spironolactone",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 0.333333333,
         "is_valid_ddd": true
@@ -175,7 +175,7 @@
         "name": "",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 0.166666667,
         "is_valid_ddd": true
@@ -193,9 +193,9 @@
     "components": [
       {
         "name": "Methyldopa",
-        "dose_mg": 250.0,
+        "dose_mg": 250,
         "dose_raw": "250",
-        "who_ddd_mg": 1000.0,
+        "who_ddd_mg": 1000,
         "who_ddd_raw": "1000",
         "ddd_per_tab": 0.25,
         "is_valid_ddd": true
@@ -215,27 +215,27 @@
         "name": "Hydrochlorothiazide/Amiloride",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -251,11 +251,11 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -271,16 +271,16 @@
     "components": [
       {
         "name": "CCB",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "RAA",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
         "who_ddd_mg": 7.5,
         "who_ddd_raw": "7.5",
@@ -300,9 +300,9 @@
     "components": [
       {
         "name": "Hydralazine",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 100.0,
+        "who_ddd_mg": 100,
         "who_ddd_raw": "100",
         "ddd_per_tab": 0.2,
         "is_valid_ddd": true
@@ -320,18 +320,18 @@
     "components": [
       {
         "name": "Hydralazine",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 100.0,
+        "who_ddd_mg": 100,
         "who_ddd_raw": "100",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 100.0,
+        "who_ddd_mg": 100,
         "who_ddd_raw": "100",
         "ddd_per_tab": 0.1,
         "is_valid_ddd": true
@@ -349,20 +349,20 @@
     "components": [
       {
         "name": "Irbesartan",
-        "dose_mg": 150.0,
+        "dose_mg": 150,
         "dose_raw": "150",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 300.0,
+        "dose_mg": 300,
         "dose_raw": "300",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -378,9 +378,9 @@
     "components": [
       {
         "name": "Nifedipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 30.0,
+        "who_ddd_mg": 30,
         "who_ddd_raw": "30",
         "ddd_per_tab": 0.166666667,
         "is_valid_ddd": true
@@ -398,9 +398,9 @@
     "components": [
       {
         "name": "Atenolol",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 0.666666667,
         "is_valid_ddd": true
@@ -418,18 +418,18 @@
     "components": [
       {
         "name": "Atenolol",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 1.333333333,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 0.333333333,
         "is_valid_ddd": true
@@ -457,18 +457,18 @@
     "components": [
       {
         "name": "Metoprolol Succinate",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
         "ddd_per_tab": 0.666666667,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
         "ddd_per_tab": 0.166666667,
         "is_valid_ddd": true
@@ -486,18 +486,18 @@
     "components": [
       {
         "name": "Metoprolol Succinate",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
         "ddd_per_tab": 0.666666667,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
         "ddd_per_tab": 0.166666667,
         "is_valid_ddd": true
@@ -515,20 +515,20 @@
     "components": [
       {
         "name": "Betaxolol Hydrochloride",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -546,7 +546,7 @@
         "name": "Bisoprolol",
         "dose_mg": 1.25,
         "dose_raw": "1.25",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -564,11 +564,11 @@
     "components": [
       {
         "name": "Candesartan Cilexetil",
-        "dose_mg": 8.0,
+        "dose_mg": 8,
         "dose_raw": "8",
-        "who_ddd_mg": 8.0,
+        "who_ddd_mg": 8,
         "who_ddd_raw": "8",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -584,18 +584,18 @@
     "components": [
       {
         "name": "Candesartan Cilexetil+ Hydrochlorothiazide",
-        "dose_mg": 16.0,
+        "dose_mg": 16,
         "dose_raw": "16",
-        "who_ddd_mg": 8.0,
+        "who_ddd_mg": 8,
         "who_ddd_raw": "8",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       },
       {
         "name": "",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -613,11 +613,11 @@
     "components": [
       {
         "name": "Bumetanide",
-        "dose_mg": 1.0,
+        "dose_mg": 1,
         "dose_raw": "1",
-        "who_ddd_mg": 1.0,
+        "who_ddd_mg": 1,
         "who_ddd_raw": "1",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -633,9 +633,9 @@
     "components": [
       {
         "name": "Captopril",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -653,9 +653,9 @@
     "components": [
       {
         "name": "Captopril",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -673,18 +673,18 @@
     "components": [
       {
         "name": "Propranolol Hcl",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 160.0,
+        "who_ddd_mg": 160,
         "who_ddd_raw": "160",
         "ddd_per_tab": 0.0625,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 160.0,
+        "who_ddd_mg": 160,
         "who_ddd_raw": "160",
         "ddd_per_tab": 0.25,
         "is_valid_ddd": true
@@ -702,27 +702,27 @@
     "components": [
       {
         "name": "Diltiazem",
-        "dose_mg": 90.0,
+        "dose_mg": 90,
         "dose_raw": "90",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.375,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 120.0,
+        "dose_mg": 120,
         "dose_raw": "120",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 30.0,
+        "dose_mg": 30,
         "dose_raw": "30",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -740,7 +740,7 @@
     "components": [
       {
         "name": "Carvedilol",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
         "who_ddd_mg": 37.5,
         "who_ddd_raw": "37.5",
@@ -780,7 +780,7 @@
     "components": [
       {
         "name": "Benazepril Hydrochloride",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
         "who_ddd_mg": 7.5,
         "who_ddd_raw": "7.5",
@@ -800,18 +800,18 @@
     "components": [
       {
         "name": "Irbesartan + Hydrochlorothiazide",
-        "dose_mg": 300.0,
+        "dose_mg": 300,
         "dose_raw": "300",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       },
       {
         "name": "",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -829,18 +829,18 @@
     "components": [
       {
         "name": "VALSARTAN",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "HYDROCHLOROTHIAZIDE",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -858,24 +858,24 @@
     "components": [
       {
         "name": "Telmisartan 80mg + Amlodipine 5mg",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
-    "total_tab_ddd": 3.0,
+    "total_tab_ddd": 3,
     "all_comps_valid": true
   },
   {
@@ -889,27 +889,27 @@
         "name": "Bisoprolol",
         "dose_mg": 1.25,
         "dose_raw": "1.25",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -925,7 +925,7 @@
     "components": [
       {
         "name": "Benidipin Hydrochloride",
-        "dose_mg": 4.0,
+        "dose_mg": 4,
         "dose_raw": "4",
         "who_ddd_mg": null,
         "who_ddd_raw": "-999",
@@ -934,7 +934,7 @@
       },
       {
         "name": "",
-        "dose_mg": 8.0,
+        "dose_mg": 8,
         "dose_raw": "8",
         "who_ddd_mg": null,
         "who_ddd_raw": "",
@@ -954,9 +954,9 @@
     "components": [
       {
         "name": "Nifedipine",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 30.0,
+        "who_ddd_mg": 30,
         "who_ddd_raw": "30",
         "ddd_per_tab": 0.666666667,
         "is_valid_ddd": true
@@ -974,9 +974,9 @@
     "components": [
       {
         "name": "Nadolol",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 160.0,
+        "who_ddd_mg": 160,
         "who_ddd_raw": "160",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -994,20 +994,20 @@
     "components": [
       {
         "name": "Losartan",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -1033,9 +1033,9 @@
     "components": [
       {
         "name": "Phenoxybenzamin",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 30.0,
+        "who_ddd_mg": 30,
         "who_ddd_raw": "30",
         "ddd_per_tab": 0.333333333,
         "is_valid_ddd": true
@@ -1053,7 +1053,7 @@
     "components": [
       {
         "name": "Carvedilol",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
         "who_ddd_mg": 37.5,
         "who_ddd_raw": "37.5",
@@ -1091,27 +1091,27 @@
     "components": [
       {
         "name": "Diltiazem",
-        "dose_mg": 90.0,
+        "dose_mg": 90,
         "dose_raw": "90",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.375,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 120.0,
+        "dose_mg": 120,
         "dose_raw": "120",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 30.0,
+        "dose_mg": 30,
         "dose_raw": "30",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -1129,27 +1129,27 @@
     "components": [
       {
         "name": "Valsartan",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 160.0,
+        "dose_mg": 160,
         "dose_raw": "160",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -1167,27 +1167,27 @@
     "components": [
       {
         "name": "Doxazosin",
-        "dose_mg": 4.0,
+        "dose_mg": 4,
         "dose_raw": "4",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 1.0,
+        "dose_mg": 1,
         "dose_raw": "1",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
         "ddd_per_tab": 0.25,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 2.0,
+        "dose_mg": 2,
         "dose_raw": "2",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -1215,9 +1215,9 @@
     "components": [
       {
         "name": "Trichlormethiazide",
-        "dose_mg": 2.0,
+        "dose_mg": 2,
         "dose_raw": "2",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -1235,11 +1235,11 @@
     "components": [
       {
         "name": "Azilsartan Medoxomil",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1255,7 +1255,7 @@
     "components": [
       {
         "name": "Sacubitril",
-        "dose_mg": 49.0,
+        "dose_mg": 49,
         "dose_raw": "49",
         "who_ddd_mg": null,
         "who_ddd_raw": "nil",
@@ -1264,9 +1264,9 @@
       },
       {
         "name": "Valsartan",
-        "dose_mg": 51.0,
+        "dose_mg": 51,
         "dose_raw": "51",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
         "ddd_per_tab": 0.6375,
         "is_valid_ddd": true
@@ -1293,18 +1293,18 @@
       },
       {
         "name": "Hydralazine",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 100.0,
+        "who_ddd_mg": 100,
         "who_ddd_raw": "100",
         "ddd_per_tab": 0.1,
         "is_valid_ddd": true
       },
       {
         "name": "Hydrochlorothiazide",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.4,
         "is_valid_ddd": true
@@ -1332,24 +1332,24 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Valsartan",
-        "dose_mg": 160.0,
+        "dose_mg": 160,
         "dose_raw": "160",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
-    "total_tab_ddd": 3.0,
+    "total_tab_ddd": 3,
     "all_comps_valid": true
   },
   {
@@ -1361,24 +1361,24 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Valsartan",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
-    "total_tab_ddd": 2.0,
+    "total_tab_ddd": 2,
     "all_comps_valid": true
   },
   {
@@ -1390,27 +1390,27 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Valsartan",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Hydrochlorothiazide",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -1428,20 +1428,20 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Valsartan",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1457,11 +1457,11 @@
     "components": [
       {
         "name": "Felodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1477,18 +1477,18 @@
     "components": [
       {
         "name": "Trichlormethiazide",
-        "dose_mg": 2.0,
+        "dose_mg": 2,
         "dose_raw": "2",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 1.0,
+        "dose_mg": 1,
         "dose_raw": "1",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
         "ddd_per_tab": 0.25,
         "is_valid_ddd": true
@@ -1506,9 +1506,9 @@
     "components": [
       {
         "name": "Diltiazem Hcl",
-        "dose_mg": 30.0,
+        "dose_mg": 30,
         "dose_raw": "30",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -1526,11 +1526,11 @@
     "components": [
       {
         "name": "Barnidipine Hcl",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1556,9 +1556,9 @@
     "components": [
       {
         "name": "Terazosin",
-        "dose_mg": 2.0,
+        "dose_mg": 2,
         "dose_raw": "2",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
         "ddd_per_tab": 0.4,
         "is_valid_ddd": true
@@ -1576,18 +1576,18 @@
     "components": [
       {
         "name": "Losartan",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       },
       {
         "name": "Hydrochlorothiazide",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -1605,9 +1605,9 @@
     "components": [
       {
         "name": "Propranolol",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 160.0,
+        "who_ddd_mg": 160,
         "who_ddd_raw": "160",
         "ddd_per_tab": 0.0625,
         "is_valid_ddd": true
@@ -1625,11 +1625,11 @@
     "components": [
       {
         "name": "Cilazapril",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
         "who_ddd_mg": 2.5,
         "who_ddd_raw": "2.5",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -1645,20 +1645,20 @@
     "components": [
       {
         "name": "Eplerenone",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 50.0,
+        "who_ddd_mg": 50,
         "who_ddd_raw": "50",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1674,11 +1674,11 @@
     "components": [
       {
         "name": "Irbesartan",
-        "dose_mg": 150.0,
+        "dose_mg": 150,
         "dose_raw": "150",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1694,18 +1694,18 @@
     "components": [
       {
         "name": "Isosorbide 5 Mononitrate",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 60.0,
+        "dose_mg": 60,
         "dose_raw": "60",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
         "ddd_per_tab": 1.5,
         "is_valid_ddd": true
@@ -1723,18 +1723,18 @@
     "components": [
       {
         "name": "Verapamil",
-        "dose_mg": 240.0,
+        "dose_mg": 240,
         "dose_raw": "240",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.166666667,
         "is_valid_ddd": true
@@ -1752,11 +1752,11 @@
     "components": [
       {
         "name": "Betaxolol",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1772,11 +1772,11 @@
     "components": [
       {
         "name": "Lacidipine",
-        "dose_mg": 4.0,
+        "dose_mg": 4,
         "dose_raw": "4",
-        "who_ddd_mg": 4.0,
+        "who_ddd_mg": 4,
         "who_ddd_raw": "4",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1792,11 +1792,11 @@
     "components": [
       {
         "name": "Furosemide",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1822,11 +1822,11 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -1842,9 +1842,9 @@
     "components": [
       {
         "name": "Minoxidil",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -1872,20 +1872,20 @@
     "components": [
       {
         "name": "Telmisartan",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -1933,7 +1933,7 @@
         "name": "Metolazone",
         "dose_mg": 0.5,
         "dose_raw": "0.5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
         "ddd_per_tab": 0.1,
         "is_valid_ddd": true
@@ -1955,7 +1955,7 @@
         "dose_raw": "1.5",
         "who_ddd_mg": 1.5,
         "who_ddd_raw": "1.5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
@@ -1980,11 +1980,11 @@
     "components": [
       {
         "name": "Nebivolol",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2000,11 +2000,11 @@
     "components": [
       {
         "name": "Nifedipine",
-        "dose_mg": 30.0,
+        "dose_mg": 30,
         "dose_raw": "30",
-        "who_ddd_mg": 30.0,
+        "who_ddd_mg": 30,
         "who_ddd_raw": "30",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2030,20 +2030,20 @@
     "components": [
       {
         "name": "Amlodipine Besylate",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -2059,20 +2059,20 @@
     "components": [
       {
         "name": "Olmesartan",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -2088,20 +2088,20 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Olmesartan",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2117,11 +2117,11 @@
     "components": [
       {
         "name": "Olmesartan",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2147,9 +2147,9 @@
     "components": [
       {
         "name": "Dipyridamole",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 400.0,
+        "who_ddd_mg": 400,
         "who_ddd_raw": "400",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -2167,11 +2167,11 @@
     "components": [
       {
         "name": "Felodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2187,9 +2187,9 @@
     "components": [
       {
         "name": "Diltiazen",
-        "dose_mg": 120.0,
+        "dose_mg": 120,
         "dose_raw": "120",
-        "who_ddd_mg": 240.0,
+        "who_ddd_mg": 240,
         "who_ddd_raw": "240",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -2207,9 +2207,9 @@
     "components": [
       {
         "name": "Propranolol",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 160.0,
+        "who_ddd_mg": 160,
         "who_ddd_raw": "160",
         "ddd_per_tab": 0.25,
         "is_valid_ddd": true
@@ -2227,11 +2227,11 @@
     "components": [
       {
         "name": "Aliskiren",
-        "dose_mg": 150.0,
+        "dose_mg": 150,
         "dose_raw": "150",
-        "who_ddd_mg": 150.0,
+        "who_ddd_mg": 150,
         "who_ddd_raw": "150",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2247,20 +2247,20 @@
     "components": [
       {
         "name": "Enalapril",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -2286,9 +2286,9 @@
     "components": [
       {
         "name": "Dipyridamole",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 400.0,
+        "who_ddd_mg": 400,
         "who_ddd_raw": "400",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -2306,18 +2306,18 @@
     "components": [
       {
         "name": "Acebutolol",
-        "dose_mg": 400.0,
+        "dose_mg": 400,
         "dose_raw": "400",
-        "who_ddd_mg": 400.0,
+        "who_ddd_mg": 400,
         "who_ddd_raw": "400",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 400.0,
+        "who_ddd_mg": 400,
         "who_ddd_raw": "400",
         "ddd_per_tab": 0.25,
         "is_valid_ddd": true
@@ -2335,24 +2335,24 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Olmesartan",
-        "dose_mg": 20.0,
+        "dose_mg": 20,
         "dose_raw": "20",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
-    "total_tab_ddd": 2.0,
+    "total_tab_ddd": 2,
     "all_comps_valid": true
   },
   {
@@ -2364,27 +2364,27 @@
     "components": [
       {
         "name": "Olmesartan Medoxomil; Amlodipine Besylate; Hydrochlorothiazide",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 40.0,
+        "dose_mg": 40,
         "dose_raw": "40",
-        "who_ddd_mg": 20.0,
+        "who_ddd_mg": 20,
         "who_ddd_raw": "20",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       },
       {
         "name": "",
         "dose_mg": 12.5,
         "dose_raw": "12.5",
-        "who_ddd_mg": 25.0,
+        "who_ddd_mg": 25,
         "who_ddd_raw": "25",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -2402,9 +2402,9 @@
     "components": [
       {
         "name": "Nicorandil",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
         "ddd_per_tab": 0.125,
         "is_valid_ddd": true
@@ -2422,9 +2422,9 @@
     "components": [
       {
         "name": "Hydralazine HCL",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 0.333333333,
         "is_valid_ddd": true
@@ -2442,9 +2442,9 @@
     "components": [
       {
         "name": "Enalapril Maleate",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -2462,7 +2462,7 @@
     "components": [
       {
         "name": "Carvedilol",
-        "dose_mg": 25.0,
+        "dose_mg": 25,
         "dose_raw": "25",
         "who_ddd_mg": 37.5,
         "who_ddd_raw": "37.5",
@@ -2482,9 +2482,9 @@
     "components": [
       {
         "name": "Imidapril",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
         "ddd_per_tab": 0.5,
         "is_valid_ddd": true
@@ -2502,18 +2502,18 @@
     "components": [
       {
         "name": "Atenolol",
-        "dose_mg": 50.0,
+        "dose_mg": 50,
         "dose_raw": "50",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 0.666666667,
         "is_valid_ddd": true
       },
       {
         "name": "",
-        "dose_mg": 100.0,
+        "dose_mg": 100,
         "dose_raw": "100",
-        "who_ddd_mg": 75.0,
+        "who_ddd_mg": 75,
         "who_ddd_raw": "75",
         "ddd_per_tab": 1.333333333,
         "is_valid_ddd": true
@@ -2541,9 +2541,9 @@
     "components": [
       {
         "name": "Labetalol",
-        "dose_mg": 200.0,
+        "dose_mg": 200,
         "dose_raw": "200",
-        "who_ddd_mg": 600.0,
+        "who_ddd_mg": 600,
         "who_ddd_raw": "600",
         "ddd_per_tab": 0.333333333,
         "is_valid_ddd": true
@@ -2561,9 +2561,9 @@
     "components": [
       {
         "name": "Pentoxifylline",
-        "dose_mg": 400.0,
+        "dose_mg": 400,
         "dose_raw": "400",
-        "who_ddd_mg": 1000.0,
+        "who_ddd_mg": 1000,
         "who_ddd_raw": "1000",
         "ddd_per_tab": 0.4,
         "is_valid_ddd": true
@@ -2581,11 +2581,11 @@
     "components": [
       {
         "name": "Ramipril",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
         "who_ddd_mg": 2.5,
         "who_ddd_raw": "2.5",
-        "ddd_per_tab": 4.0,
+        "ddd_per_tab": 4,
         "is_valid_ddd": true
       }
     ],
@@ -2601,20 +2601,20 @@
     "components": [
       {
         "name": "Amlodipine",
-        "dose_mg": 5.0,
+        "dose_mg": 5,
         "dose_raw": "5",
-        "who_ddd_mg": 5.0,
+        "who_ddd_mg": 5,
         "who_ddd_raw": "5",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       },
       {
         "name": "Telmisartan",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 40.0,
+        "who_ddd_mg": 40,
         "who_ddd_raw": "40",
-        "ddd_per_tab": 2.0,
+        "ddd_per_tab": 2,
         "is_valid_ddd": true
       }
     ],
@@ -2630,11 +2630,11 @@
     "components": [
       {
         "name": "Valsartan",
-        "dose_mg": 80.0,
+        "dose_mg": 80,
         "dose_raw": "80",
-        "who_ddd_mg": 80.0,
+        "who_ddd_mg": 80,
         "who_ddd_raw": "80",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2660,11 +2660,11 @@
     "components": [
       {
         "name": "Lercanidipine",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
@@ -2680,15 +2680,73 @@
     "components": [
       {
         "name": "Lisinopril Dihydrate",
-        "dose_mg": 10.0,
+        "dose_mg": 10,
         "dose_raw": "10",
-        "who_ddd_mg": 10.0,
+        "who_ddd_mg": 10,
         "who_ddd_raw": "10",
-        "ddd_per_tab": 1.0,
+        "ddd_per_tab": 1,
         "is_valid_ddd": true
       }
     ],
     "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_117",
+    "brand_name": "Betacor (壓控樂)",
+    "generic_name": "Bisoprolol",
+    "drug_class": "ß-block",
+    "is_combination": false,
+    "components": [
+      {
+        "name": "Bisoprolol",
+        "dose_mg": 5,
+        "dose_raw": "5",
+        "who_ddd_mg": 10,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 0.5,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Bisoprolol",
+        "dose_mg": 10,
+        "dose_raw": "10",
+        "who_ddd_mg": 10,
+        "who_ddd_raw": "10",
+        "ddd_per_tab": 1,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": null,
+    "all_comps_valid": true
+  },
+  {
+    "id": "tb_118",
+    "brand_name": "Dafiro (道脈樂膜衣錠)",
+    "generic_name": "Amlodipine / Valsartan",
+    "drug_class": "CCB+ ARB",
+    "is_combination": true,
+    "components": [
+      {
+        "name": "Amlodipine",
+        "dose_mg": 5,
+        "dose_raw": "5",
+        "who_ddd_mg": 5,
+        "who_ddd_raw": "5",
+        "ddd_per_tab": 1,
+        "is_valid_ddd": true
+      },
+      {
+        "name": "Valsartan",
+        "dose_mg": 80,
+        "dose_raw": "80",
+        "who_ddd_mg": 80,
+        "who_ddd_raw": "80",
+        "ddd_per_tab": 1,
+        "is_valid_ddd": true
+      }
+    ],
+    "total_tab_ddd": 2,
     "all_comps_valid": true
   }
 ]

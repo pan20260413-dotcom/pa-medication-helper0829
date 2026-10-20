@@ -367,7 +367,7 @@ function renderHome() {
         <h1>PA 臨床藥物影響助手</h1>
         <div class="hero-clinic__sub">原發性醛固酮過多症 (Primary Aldosteronism, PA)<br>降血壓藥物實體照片外觀比對 × 複方拆解 × ARR 篩檢工具</div>
         <p class="hero-clinic__desc">
-          專為台灣門診與社區健檢研究個案設計，提供每種降血壓藥物（包含 Lesyn 樂壓定、IBIMO 愛彼脈、Aldactone 安達通、Apresoline 阿普利素寧、Exforge 易安穩、Diovan 代文、Norvasc 脈優、Blopress 博脈舒、Unisia 優力莎、Amlobin-O 安脈、Losa & Hydro 落沙、Caduet 卡杜特等）的<strong>真實藥物與包裝外觀比對</strong>、複方拆解成分與 PAC/PRA/ARR 影響分析。
+          專為台灣門診與社區健檢研究個案設計，提供每種降血壓藥物（包含 Lesyn 樂壓定、IBIMO 愛彼脈、Aldactone 安達通、Apresoline 阿普利素寧、Exforge 易安穩、Dafiro 道脈樂、Diovan 代文、Norvasc 脈優、Blopress 博脈舒、Unisia 優力莎、Amlobin-O 安脈、Losa & Hydro 落沙、Caduet 卡杜特等）的<strong>真實藥物與包裝外觀比對</strong>、複方拆解成分與 PAC/PRA/ARR 影響分析。
         </p>
 
         <div class="hero-clinic__actions">
@@ -391,7 +391,7 @@ function renderHome() {
           <div class="pill-preview-item" data-zoom-id="valsartan" style="cursor:pointer;">
             <img src="${valMed ? valMed.image : 'assets/medicines/valsartan.svg'}" width="36" height="36" style="border-radius:4px;object-fit:cover;" />
             <div>
-              <div style="font-size:0.82rem;font-weight:800;color:var(--primary);">Exforge (易安穩)</div>
+              <div style="font-size:0.82rem;font-weight:800;color:var(--primary);">Exforge / Dafiro (易安穩/道脈樂)</div>
               <div style="font-size:0.7rem;color:var(--text-muted);">Amlodipine + Valsartan</div>
             </div>
           </div>
@@ -415,8 +415,8 @@ function renderHome() {
           <div class="pill-preview-item" data-zoom-id="bisoprolol" style="cursor:pointer;">
             <img src="${bisMed ? bisMed.image : 'assets/medicines/bisoprolol.svg'}" width="36" height="36" style="border-radius:4px;object-fit:cover;" />
             <div>
-              <div style="font-size:0.82rem;font-weight:800;color:var(--orange);">Concor (康肯)</div>
-              <div style="font-size:0.7rem;color:var(--text-muted);">心形刻痕錠</div>
+              <div style="font-size:0.82rem;font-weight:800;color:var(--orange);">Concor / Betacor (康肯/壓控樂)</div>
+              <div style="font-size:0.7rem;color:var(--text-muted);">心形/圓形刻痕錠</div>
             </div>
           </div>
         </div>
@@ -426,11 +426,11 @@ function renderHome() {
     <!-- 2. 藥物搜尋區 (採用 input type="text" 並完全尊重 IME Composition 注音選字) -->
     <section class="search-section">
       <h2>
-        🔍 搜尋藥名／商品名 (支援 LESYN 樂壓定, IBIMO 愛彼脈, Aldactone 安達通, Apresoline, Exforge 易安穩, Diovan 代文, Norvasc 脈優)
+        🔍 搜尋藥名／商品名 (支援 Dafiro 道脈樂, Betacor 壓控樂, LESYN 樂壓定, IBIMO 愛彼脈, Aldactone 安達通, Apresoline, Exforge 易安穩, Diovan 代文, Norvasc 脈優)
       </h2>
       <div class="search-box">
         <svg class="search-box__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-        <input type="text" id="home-search-input" placeholder="請輸入藥物中文商品名 (如 樂壓定, 博脈舒, 安達通, 安壓得穩, 易安穩, 脈優) 或英文學名..." value="${escapeHtml(searchTerm)}" autocomplete="off" spellcheck="false" />
+        <input type="text" id="home-search-input" placeholder="請輸入藥物中文商品名 (如 道脈樂, 易安穩, 壓控樂, 樂壓定, 博脈舒, 安達通, 安壓得穩, 脈優) 或英文學名..." value="${escapeHtml(searchTerm)}" autocomplete="off" spellcheck="false" />
       </div>
 
       <div class="category-chips">

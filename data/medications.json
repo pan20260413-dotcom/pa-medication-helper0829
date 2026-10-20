@@ -8,6 +8,7 @@
     "brand_names": [
       "Diovan (得安穩錠)",
       "Exforge (易安穩錠)",
+      "Dafiro (道脈樂膜衣錠)",
       "Co-Diovan (協得安穩膜衣錠/協代衛/可得安穩)",
       "Valpress (壓莎膜衣錠)",
       "Valstar (發爾坦膜衣錠)"
@@ -15,7 +16,7 @@
     "category": "ARB",
     "category_name_zh": "血管張力素 II 受體阻斷劑",
     "is_combination": true,
-    "combination_components": "Valsartan (單方得安穩錠) / 易安穩錠: Amlodipine + Valsartan / 協得安穩膜衣錠: Valsartan + Hydrochlorothiazide",
+    "combination_components": "Valsartan (單方得安穩錠) / 易安穩錠／道脈樂膜衣錠: Amlodipine + Valsartan / 協得安穩膜衣錠: Valsartan + Hydrochlorothiazide",
     "combination_categories": "ARB / CCB + ARB / ARB + Diuretic",
     "combination_notes": "若個案服用 Exforge (易安穩)，拆解成分為 Amlodipine (CCB, 影響極小) + Valsartan (ARB, 提升 PRA 致假陰性，洗脫期 2-4 週)。",
     "pill_appearance": "淺粉紅/棕紅色橢圓形膜衣錠 ，中央具分割刻痕，側面印有 NVR/D 標籤。",
@@ -1071,6 +1072,7 @@
       "Amlobin (鎮脈錠)",
       "Caduet (卡杜特膜衣錠)",
       "Exforge (易安穩錠)",
+      "Dafiro (道脈樂膜衣錠)",
       "Unisia (優雅錠)",
       "Amlobin-O (降壓安錠)",
       "安壓得穩錠",
@@ -1079,7 +1081,7 @@
     "category": "CCB",
     "category_name_zh": "二氫吡啶類鈣離子通道阻斷劑 (Dihydropyridine CCB)",
     "is_combination": true,
-    "combination_components": "Amlodipine (單方脈優錠/安壓得穩錠) / 卡杜特膜衣錠: Amlodipine + Atorvastatin / 易安穩錠: Amlodipine + Valsartan / 優雅錠: Amlodipine + Candesartan / 降壓安錠: Amlodipine + Olmesartan",
+    "combination_components": "Amlodipine (單方脈優錠/安壓得穩錠) / 卡杜特膜衣錠: Amlodipine + Atorvastatin / 易安穩錠／道脈樂膜衣錠: Amlodipine + Valsartan / 優雅錠: Amlodipine + Candesartan / 降壓安錠: Amlodipine + Olmesartan",
     "combination_categories": "CCB / CCB + Statin / CCB + ARB",
     "combination_notes": "若個案服用 Caduet (卡杜特)，包含 Amlodipine (CCB 控壓, 影響極小) + Atorvastatin (Statin 降脂, 對 ARR 無影響)。得繼續使用。",
     "pill_appearance": "白色八角形/圓形刻痕錠劑 ，印有 Pfizer 與 5/10 字樣。",
@@ -1270,6 +1272,7 @@
     "brand_names": [
       "Concor (康肯轉釋錠/康肯平錠)",
       "Biso (百適歐)",
+      "Betacor (壓控樂膜衣錠)",
       "Bisoplus (康肯複方錠)"
     ],
     "category": "Beta-blocker",
@@ -1298,7 +1301,7 @@
     "washout_weeks": 2,
     "is_preferred_for_pa_screening": false,
     "screening_recommendation": "PA 篩檢檢測前必須停藥 2-4 週！若在 Beta-blocker 作用下抽血發現 ARR 升高，不能直接診斷 PA，必須洗脫停藥後重測；但若在 Beta-blocker 作用下 ARR 仍為陰性；若 ARR 結果受到可能造成假陰性的藥物影響，且臨床仍高度懷疑 PA，不宜僅依單次陰性 ARR 排除 PA，應依臨床情境評估是否於藥物調整後重新檢測。。",
-    "notes": "Bisoplus（中文商品名：康肯複方）為口服複合性降壓錠，結合 Bisoprolol（比索洛爾，乙型阻斷劑 Beta-blocker）+ Hydrochlorothiazide（氫氯噻嗪，簡稱 HCTZ 利尿劑）兩種成分。",
+    "notes": "Bisoplus（中文商品名：康肯複方）為口服複合性降壓錠，結合 Bisoprolol（比索洛爾，乙型阻斷劑 Beta-blocker）+ Hydrochlorothiazide（氫氯噻嗪，簡稱 HCTZ 利尿劑）兩種成分。 Betacor（中文商品名：壓控樂膜衣錠）亦為 Bisoprolol 單方劑型。",
     "references": [
       "Endocrine Society Guidelines (2016)",
       "ESH-ISH Guidelines"
@@ -1338,7 +1341,7 @@
       "daily_qty_raw": "",
       "patient_daily_ddd_raw": ""
     },
-    "tfda_license": "衛署藥輸字第024039號(Concor 1.25mg) / 衛署藥輸字第017125號(Concor 5mg) / 衛署藥輸字第017090號(Concor 10mg)",
+    "tfda_license": "衛署藥輸字第024039號(Concor 1.25mg) / 衛署藥輸字第017125號(Concor 5mg) / 衛署藥輸字第017090號(Concor 10mg) / 衛署藥製字第048866號(Betacor 5mg) / 衛署藥製字第048867號(Betacor 10mg)",
     "tfda_url": "https://lmspiq.fda.gov.tw/web/DRPIQ/license-search",
     "dailymed_url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=Bisoprolol",
     "tfda_specs": [
@@ -1365,6 +1368,22 @@
         "official_spec": "10毫克",
         "holder": "台灣邁蘭醫藥股份有限公司",
         "brand_spec": "Concor 10mg"
+      },
+      {
+        "spec": "5mg",
+        "license": "衛署藥製字第048866號",
+        "official_name": "壓控樂膜衣錠５毫克",
+        "official_spec": "5毫克",
+        "holder": "健喬信元醫藥生技股份有限公司",
+        "brand_spec": "Betacor 5mg"
+      },
+      {
+        "spec": "10mg",
+        "license": "衛署藥製字第048867號",
+        "official_name": "壓控樂膜衣錠１０毫克",
+        "official_spec": "10毫克",
+        "holder": "健喬信元醫藥生技股份有限公司",
+        "brand_spec": "Betacor 10mg"
       }
     ]
   },
